@@ -1,0 +1,6 @@
+###[Remove default buttons from the user interface on Webex Board, Desk, and Room Series devices](https://help.webex.com/en-us/article/nci847eb/Remove-default-buttons-from-the-user-interface-on-Webex-Board,-Desk,-and-RoomSeries-devices)  
+###[]()  
+###[]()  
+###[]()  
+###[]()  
+###[]()  
